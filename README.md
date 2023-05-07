@@ -1,5 +1,5 @@
 # My Portfolio
 
-**PANKAJ KAPOOR**
+**HARSH VARDHAN GUPTA**
 
-[Portfolio Link](https://pankkap.github.io/MyResume/)
+ 
